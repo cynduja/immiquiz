@@ -16,6 +16,8 @@ We are also taking a short survey to store the profile of the person who is usin
 
 Roles and responsibilities:
 
-HTML, CSS and Design - Kevin Tsukii 
+HTML, CSS and Design - Kevin Tsukii.
+3 col portofolio template by David Miller
+https://github.com/IronSummitMedia/startbootstrap-3-col-portfolio
 Part 1 and Part 2 - Displaying results based on selection jQuery and JS. Storing votes to the database - Sinduja Rangarajan
 Part 3: Survey form design, front-end JS and backend DB work - Kevin Tsukii 
